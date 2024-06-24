@@ -1,5 +1,5 @@
 # bookFinder
-
+Bookfinder is a new resource for users looking to find special books to read with reviews to help user choose the best book for user. With the ability to save and delete books to your personal list, bookFinder is your best bet to search and find spectacular books!
 
 
 ## Table of Contents
@@ -41,7 +41,7 @@
 
 ## Links
 
-Repo: 
+Repo: https://github.com/Maxxxc1/bookFinder
 
 Deployed: 
 
