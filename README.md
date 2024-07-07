@@ -14,11 +14,14 @@ Bookfinder is a new resource for users looking to find special books to read wit
 
 ## Description
 
-
+The purpose of this application is to make finding media like books and magazines easy through a diverse library. Each media item has a description such as the year published and image depicting media. A brief summary is included for the user to decide if they want to go further into research of said product.
 
 ## Installation
 
-
+1. Install Node.js
+2. Install Apollo Client and React
+3. Install all other necessary packages
+4. Run application through proper local host or server
 
 ## Technology Used
 
@@ -33,11 +36,13 @@ Bookfinder is a new resource for users looking to find special books to read wit
 
 ## Usage
 
-  - Step 1:
+  - Step 1: Install necessary packages (npm i)
   
-  - Step 2: 
+  - Step 2: Make sure proper local host is open to host
   
-  - Step 3: 
+  - Step 3: Run application
+
+  - Step 4: Search for desired media
 
 ## Links
 
